@@ -27,7 +27,7 @@ porderivar <- function(coeficientes){#Esta función se encarga de encontrar los 
 }
 
 
-x0 <- #Valor con el que se van a evaluar las derivadas
+x0 <-2 #Valor con el que se van a evaluar las derivadas
 
 coeficientes <- c(1,-5,-9,155,-200)#del polinomio original
 
